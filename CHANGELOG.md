@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fb04f19`](https://github.com/stdlib-js/stdlib/commit/fb04f1968006f8bee36735f9b71d857f478bb6c1) - **refactor:** reduce test tolerance and fix casting [(#2356)](https://github.com/stdlib-js/stdlib/pull/2356) _(by Gunj Joshi)_
 -   [`b6edfd8`](https://github.com/stdlib-js/stdlib/commit/b6edfd8f1953792320b89f18ff4d059dceec3631) - **feat:** add `math/base/special/lnf` _(by Gunj Joshi, Philipp Burckhardt)_
 
 </details>
