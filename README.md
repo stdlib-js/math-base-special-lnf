@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@esm/index.mjs';
+import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@v0.0.1-esm/index.mjs';
 ```
 
 #### lnf( x )
@@ -88,7 +88,7 @@ var v = lnf( -4.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@esm/index.mjs';
+import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@v0.0.1-esm/index.mjs';
 
 var x;
 var i;
