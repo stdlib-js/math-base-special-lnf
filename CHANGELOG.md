@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-31)
+## Unreleased (2025-04-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`86a5626`](https://github.com/stdlib-js/stdlib/commit/86a5626e1cb0cf5cb208e94c48b79a109025cc8f) - **docs:** replace manual `for` loop in examples [(#6471)](https://github.com/stdlib-js/stdlib/pull/6471) _(by Harsh, stdlib-bot)_
 -   [`e71eb03`](https://github.com/stdlib-js/stdlib/commit/e71eb032c2960ae3f10071bc005e987a7718aba6) - **bench:** update random value generation [(#6349)](https://github.com/stdlib-js/stdlib/pull/6349) _(by Harsh)_
 -   [`c13062e`](https://github.com/stdlib-js/stdlib/commit/c13062e5b90cbe28ec62f0b690211bd14b626cf3) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
