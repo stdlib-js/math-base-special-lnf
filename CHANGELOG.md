@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-01)
+## Unreleased (2025-11-04)
 
 <section class="bug-fixes">
 
@@ -22,13 +22,14 @@
 
 <details>
 
+-   [`a01f693`](https://github.com/stdlib-js/stdlib/commit/a01f693f8d00d2d023360ce3fc55a51b868dad90) - **chore:** add structured package data for `math/base/special/lnf` [(#8369)](https://github.com/stdlib-js/stdlib/pull/8369) _(by Manvith M, Athan Reines)_
 -   [`e41e763`](https://github.com/stdlib-js/stdlib/commit/e41e7632d6766660661d228bb3eb7068f0ff7af9) - **test:** add tests to achieve full coverage in `math/base/special/lnf` _(by Philipp Burckhardt)_
 -   [`43cbf2d`](https://github.com/stdlib-js/stdlib/commit/43cbf2dd9d8ad173cfe9cc89fe7de500dd96bbbe) - **fix:** update constant name _(by Karan Anand)_
 -   [`c9cacbf`](https://github.com/stdlib-js/stdlib/commit/c9cacbfe7c80e80d5205c867b49bdeb199a76986) - **test:** add tests for IEEE 754-2019 compliance [(#6571)](https://github.com/stdlib-js/stdlib/pull/6571) _(by Karan Anand, stdlib-bot)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`86a5626`](https://github.com/stdlib-js/stdlib/commit/86a5626e1cb0cf5cb208e94c48b79a109025cc8f) - **docs:** replace manual `for` loop in examples [(#6471)](https://github.com/stdlib-js/stdlib/pull/6471) _(by Harsh, stdlib-bot)_
--   [`e71eb03`](https://github.com/stdlib-js/stdlib/commit/e71eb032c2960ae3f10071bc005e987a7718aba6) - **bench:** update random value generation [(#6349)](https://github.com/stdlib-js/stdlib/pull/6349) _(by Harsh)_
+-   [`86a5626`](https://github.com/stdlib-js/stdlib/commit/86a5626e1cb0cf5cb208e94c48b79a109025cc8f) - **docs:** replace manual `for` loop in examples [(#6471)](https://github.com/stdlib-js/stdlib/pull/6471) _(by Harsh Yadav, stdlib-bot)_
+-   [`e71eb03`](https://github.com/stdlib-js/stdlib/commit/e71eb032c2960ae3f10071bc005e987a7718aba6) - **bench:** update random value generation [(#6349)](https://github.com/stdlib-js/stdlib/pull/6349) _(by Harsh Yadav)_
 -   [`c13062e`](https://github.com/stdlib-js/stdlib/commit/c13062e5b90cbe28ec62f0b690211bd14b626cf3) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -42,11 +43,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
