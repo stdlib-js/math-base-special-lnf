@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-lnf/tags). For example,
+
+```javascript
 import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@v0.0.3-esm/index.mjs';
 ```
 
@@ -88,7 +93,7 @@ var v = lnf( -4.0 );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@v0.0.3-esm/index.mjs';
+import lnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lnf@esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
